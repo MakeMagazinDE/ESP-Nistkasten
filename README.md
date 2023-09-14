@@ -14,4 +14,4 @@ Mittels Infrarot-Kamera und passender unsichtbarer IR-Beleuchtung schauen Sie V√
 ![Picture](https://github.com/MakeMagazinDE/ESP-Nistkasten/blob/main/Nistkasten.jpg) 
 
 Den vollst√§ndigen Artikel mit der Bauanleitung gibt es im Make-Special 2023 ab Seite 38 zu lesen. 
-Hier gibt es den ![Schaltplan](https://github.com/MakeMagazinDE/ESP-Nistkasten/blob/main/Schaltplan/Schaltplan%20Skizze.png), 3D-Druckdateien, Konstruktionszeichnungen und die Software zum Download.
+Hier gibt es den [Schaltplan], 3D-Druckdateien, Konstruktionszeichnungen und die Software zum Download.
